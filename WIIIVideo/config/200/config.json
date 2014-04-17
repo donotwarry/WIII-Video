@@ -40,6 +40,12 @@
 				}
 			],
 			"sorts":[
+			    {
+					"title":"热门专辑",
+					"parser":"lua_search_playlist",
+					"url":"http://www.soku.com/search_playlist/orderby_1",
+					"pageable":true
+				},
 				{
 					"title":"综合排序",
 					"parser":"lua_search_result",
