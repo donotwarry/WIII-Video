@@ -3,7 +3,12 @@
 		"about_content":"最新最热门的游戏视频，尽在魔游视频(MoYou Video)",
 		"home":{
 			"tags":[
-			        {
+			    {
+					"title":"魔兽争霸",
+					"icon":"",
+					"keyword":"魔兽争霸"
+				},
+				{
 					"title":"星际争霸",
 					"icon":"",
 					"keyword":"星际争霸"
@@ -12,11 +17,6 @@
 					"title":"魔兽世界",
 					"icon":"",
 					"keyword":"魔兽世界"
-				},
-				{
-					"title":"魔兽争霸",
-					"icon":"",
-					"keyword":"魔兽争霸"
 				},
 				{
 					"title":"英雄联盟",
