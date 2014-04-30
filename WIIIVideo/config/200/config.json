@@ -43,7 +43,7 @@
 			    {
 					"title":"热门专辑",
 					"parser":"lua_search_playlist",
-					"url":"http://www.soku.com/search_playlist/orderby_1",
+					"url":"http://www.soku.com/search_playlist/orderby_3",
 					"pageable":true
 				},
 				{
